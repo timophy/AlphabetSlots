@@ -1,5 +1,8 @@
 A very simple Slot Machine game written in PHP.
 
+[Try it here](http://timothysmurphy.com/dev/github/alphabet_slots/slot.php)
+
+
 #### PAY TABLE
 
 * Three Z's  -  500 
